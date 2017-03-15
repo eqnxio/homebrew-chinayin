@@ -2,9 +2,9 @@ class Tng < Formula
   desc ''
   homepage 'https://dl.equinox.io/chinayin/tng'
 
-  url 'https://bin.equinox.io/a/esZDH2a1Ud8/tng-0.1-darwin-amd64.tar.gz'
-  sha256 '2153913f1086b670ee9e539f16a884c7618c4d68fc4ad62107f93ee00929f807'
-  version '0.1'
+  url 'https://bin.equinox.io/a/hB2NkdsVSmz/tng-0.2-darwin-amd64.tar.gz'
+  sha256 'ebc26e7d55c0c884fa5647e61fdc918afe7fad839796d1234797a06a4389e5a3'
+  version '0.2'
 
   def install
     bin.install 'tng'
